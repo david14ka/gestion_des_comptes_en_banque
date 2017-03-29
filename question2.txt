@@ -1,0 +1,14 @@
+
+TRAVAIL PRATIQUE EN AUDITOIRE SUR L’HERITAGE
+
+Exercice 1: Gestion de comptes en banque (Travail à effectuer par groupe de 2)
+Une banque gère un ensemble de comptes de différents types : comptes courant, comptes d’épargne…  Les comportements et les caractéristiques liés à un compte sont à un niveau abstrait fort similaires :
+•	chacun possède un propriétaire, un solde, un numéro, un taux d’intérêt : on y peut déposer de l’argent, retirer de l’argent (s’il en reste suffisamment)
+
+•	La banque propose également un système d’emprunts. Chaque emprunt est caractérisé par le montant total à rembourser, la valeur des mensualités et le compte duquel les mensualités doivent être débitées
+
+Le but de cet exercice consiste à créer une banque et à tenir à jour l’état des comptes en fonction des retraits, des intérêts et des remboursements d’emprunts sur chaque compte. 
+
+Toutes ces opérations précitées seront à  réaliser dans une classe nommée Banque contenant une méthode main() où vous créerez 5 comptes, et réaliser diverses opérations. Il ne faut pas oublier les notions étudiées (encapsulation, héritage, attributs statiques, méthodes statiques, les mots clés Final, Super, etc.
+
+
